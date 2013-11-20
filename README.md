@@ -18,3 +18,9 @@ See the README files in `tests/tests` and `tests/controls` for more on what shou
 If you would like to employ [Travis](https://travis-ci.org/) testing for your projects, copy the `travis.yml` file into your project's root directory and rename it `.travis.yml`. This will set Travis up to run the tests against Ruby 1.8.7 and 2.0.0. If you'd like to add the pretty **build passing** image to your Markdown READMEs, here's the code to use once you've got Travis set up!
 
 `[![Build Status](https://travis-ci.org/{user}/{repo}.png?branch={branch})](https://travis-ci.org/{user}/{repo})`
+
+## License
+
+(c) Sam Richard, Ian Carrico
+
+Licensed under MIT license. 

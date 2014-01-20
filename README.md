@@ -23,4 +23,4 @@ If you would like to employ [Travis](https://travis-ci.org/) testing for your pr
 
 (c) Sam Richard, Ian Carrico
 
-Licensed under MIT license. 
+Licensed under MIT license.

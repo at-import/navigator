@@ -7,7 +7,7 @@ Each individual piece you're testing, from a function to a mixin to general usag
 // Functions
 //////////////////////////////
 /**
-  * Function Name Function 
+  * Function Name Function
 **/
 .function-name {
   /* Each permutation of input/output that is possible should get a CSS comment */
@@ -22,7 +22,7 @@ Each individual piece you're testing, from a function to a mixin to general usag
 // Mixins
 //////////////////////////////
 /**
-  * Mixin Name 
+  * Mixin Name
 **/
 .mixin-name {
   /* Each permutation of input/output that is possible should get a CSS comment */

@@ -1,4 +1,4 @@
-# Require any additional compass plugins here.]
+# Require any additional compass plugins here.
 
 # File system locations
 sass_dir              = 'tests'

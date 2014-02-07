@@ -1,0 +1,5 @@
+{
+  "name": "navigator",
+  "description": "A Ruby testing framework for Sass with Compass.",
+  "tags": ["testing"]
+}

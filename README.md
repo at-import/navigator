@@ -19,6 +19,12 @@ If you would like to employ [Travis](https://travis-ci.org/) testing for your pr
 
 `[![Build Status](https://travis-ci.org/{user}/{repo}.png?branch={branch})](https://travis-ci.org/{user}/{repo})`
 
+## Installation
+
+The easiest way to install Navigator is by cloning the `clean` branch into the root of your project. To do so, simply run the following code:
+
+`git pull git@github.com:Team-Sass/navigator.git clean`
+
 ## License
 
 (c) Sam Richard, Ian Carrico

@@ -1,3 +1,5 @@
+# Navigator | Copyright 2013 Team Sass | MIT License | https://github.com/Team-Sass/navigator
+
 task :default => [:test]
 
 task :test do

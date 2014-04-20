@@ -1,0 +1,14 @@
+////////
+// Simple set of functions to show how navigator works.
+////////
+
+// Sample function
+@function function-name($var, $default_var: 10px) {
+  @return $var / $default_var;
+}
+
+// Sample mixin
+@mixin mixin-name($var, $default_var: 10px) {
+  margin-top: $var;
+  margin-bottom: $default_var;
+}

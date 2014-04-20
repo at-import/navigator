@@ -1,0 +1,15 @@
+/**
+ * Sample function tests.
+ **/
+@import 'common';
+
+.function-name {
+  /* Each permutation of input/output that is possible should get a CSS comment */
+  /* No Defaulted Input */
+  _test: "function-name(50px)";
+  _result: function-name(50px);
+
+  /* Defaulted Input */
+  _test: "function-name(50px, 25px)";
+  _result: function-name(50px, 25px);
+}

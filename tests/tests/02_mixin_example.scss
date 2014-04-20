@@ -1,0 +1,14 @@
+/**
+ * Sample mixin tests.
+ **/
+@import 'common';
+
+.mixin-name {
+  /* Each permutation of input/output that is possible should get a CSS comment */
+  /* No Defaulted Input */
+  _test: "mixin-name(10px)";
+  @include mixin-name(10px);
+  /* Defaulted Input */
+  _test: "mixin-name(20px, 30px)";
+  @include mixin-name(20px, 30px);
+}

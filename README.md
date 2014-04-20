@@ -1,7 +1,7 @@
 Navigator
 =========
 
-[![Build Status](https://travis-ci.org/Team-Sass/navigator.png?branch=master)](https://travis-ci.org/Team-Sass/navigator
+[![Build Status](https://travis-ci.org/Team-Sass/navigator.svg?branch=master)](https://travis-ci.org/Team-Sass/navigator)
 
 A Ruby testing framework for Sass with Compass.
 
@@ -19,7 +19,7 @@ See the README files in `tests/tests` and `tests/controls` for more on what shou
 
 If you would like to employ [Travis](https://travis-ci.org/) testing for your projects, enable Travis testing on your [Travis profile page](https://travis-ci.org/profile/). This will set Travis up to run the tests against Ruby 1.8.7 and 2.0.0. If you'd like to add the pretty **build passing** image to your Markdown READMEs, here's the code to use once you've got Travis set up!
 
-`[![Build Status](https://travis-ci.org/{user}/{repo}.png?branch={branch})](https://travis-ci.org/{user}/{repo})`
+`[![Build Status](https://travis-ci.org/{user}/{repo}.svg?branch={branch})](https://travis-ci.org/{user}/{repo})`
 
 ## License
 
